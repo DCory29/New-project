@@ -1,3 +1,3 @@
 # Second page
 
-lien vers first-page [First page](first-page.md)
+lien vers first-page [First page](index.md)
