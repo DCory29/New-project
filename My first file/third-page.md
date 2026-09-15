@@ -1,4 +1,5 @@
 # this is the third page
 
 
-link to second page [secondpage] (secon-page.md)
+link to second page [second page](secon-page.md)
+
